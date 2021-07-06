@@ -1,3 +1,41 @@
 body{
-    background-color: azure;
+    font-family: 'Poppins', sans-serif;
+    background-color: aliceblue}
+
+h1{
+    font-size: 50px;
+    line-height: 30px;
 }
+span{
+    color: darkorange;
+    font-size: 60px;
+}
+.Link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(246, 13, 13), rgb(255, 136, 0));
+    padding: 10px 20px;
+    color: azure;
+    border-radius: 20px;
+    font-weight: 700;
+ }
+
+ section{
+     height: 500px;
+     padding: 15px;
+
+
+ }
+
+.top-poaragraph{
+    width: 40%;    
+    float:left;
+    padding-bottom: 100px;
+    padding: 5%;
+
+ }
+
+.Top-banner2{
+    width: 40%;    
+    float:left;
+    padding-bottom: 100px;
+ }
